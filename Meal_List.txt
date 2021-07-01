@@ -1,0 +1,25 @@
+List of Possible Meals (This is the zeroth entry)
+Pasta
+Sausage
+Pizza
+Cake
+Pie
+Spaghetti
+Broccoli
+Grean Beans
+Asparagus
+Rice
+Bell Pepper
+Cucumber
+Salad
+Sandwich
+Jam
+Peanut Butter
+Banana
+Ice Cream
+Vanilla Pudding
+Porridge
+Ham
+Beef
+Mashed Potatoes
+Grilled Chicken
